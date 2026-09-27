@@ -1,6 +1,3 @@
-Aman, tidak ada triple-backtick di dalam isinya. Ini raw markdown-nya, tinggal copy-paste ke file `.md` di GitHub:
-
-````markdown
 # 🎤 Panduan Wawancara Customer Discovery — Geny StuntCare
 *Validasi Customer Persona & Urgensi Masalah | Techno Park Bandung x Telkom University*
 
@@ -209,4 +206,3 @@ Variasikan sampel: campur keluarga mampu & kurang mampu, kota & pinggiran, usia 
 ---
 
 *Cek saturasi tematik (jawaban mulai berulang) sebelum lanjut ke sel sampling berikutnya sesuai matriks Sel A–E di laporan sintesis.*
-````
