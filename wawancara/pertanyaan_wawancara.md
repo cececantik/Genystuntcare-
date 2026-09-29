@@ -1,208 +1,144 @@
-# 🎤 Panduan Wawancara Customer Discovery — Geny StuntCare
-*Validasi Customer Persona & Urgensi Masalah | Techno Park Bandung x Telkom University*
+Panduan Wawancara Problem Discovery — Geny StuntCare
 
-> **Aturan emas:** jangan sebut kata "stunting" di 10 menit pertama. Pakai istilah **"pertumbuhan anak"** atau **"tumbuh kembang"**. Menyebut "stunting" di awal memicu jawaban defensif/menutup diri (temuan dari sintesis literatur — stigma adalah hambatan lapangan #1).
-> **Durasi target:** 35–45 menit per sesi. Rekam dengan izin, catat kutipan verbatim untuk kalimat emosional (itu bahan persona terbaik).
-> **Dua tahap riset — JANGAN dicampur:**
-> - **TAHAP 1 (sekarang — Problem Discovery)**: Journey + Eksplorasi Masalah Terbuka. Tujuannya menemukan akar masalah RIIL di lapangan, apa adanya, tanpa diarahkan ke hipotesis literatur (gizi/ekonomi/dll). Biarkan responden yang menentukan topiknya sendiri.
-> - **TAHAP 2 (nanti — Solution Validation, opsional untuk sesi ini)**: Reaksi & Perbandingan 3 Pilar Fitur + WTP. Baru dipakai setelah problem statement dikerucutkan dari hasil Tahap 1. Kalau waktu wawancara terbatas, **prioritaskan Tahap 1** dan lewati Tahap 2 dulu.
-> **Prinsip Tahap 1:** mulai dari pertanyaan paling luas (*Grand Tour Question*), lalu ikuti alur cerita mereka dengan *laddering* ("kenapa itu?", "sejak kapan?", "terus gimana?") — bukan kita yang menggiring ke topik tertentu. Kalau mereka cerita soal uang, waktu, hubungan keluarga, atau apa pun selain gizi, itu valid dan justru itu yang dicari.
+Techno Park Bandung x Telkom University | Target: SRL-0 (Competencies-Based Target Market Analysis)
 
----
+Daftar Isi
+Prinsip & Aturan Wawancara
+Rencana Sampel & Checkpoint
+Alur Wawancara
+Pertanyaan per Persona
+Tahap 2: Validasi Solusi & WTP (Opsional)
+Panduan Interpretasi Jawaban
+Teknik Wawancara
+Hipotesis Literatur (Pembanding Pasca-Wawancara)
+Lembar Rekap per Narasumber
+Matriks Goal → Output SRL-0
+1. Prinsip & Aturan Wawancara
+Jangan sebut kata "stunting" di 10 menit pertama. Pakai istilah "pertumbuhan anak" atau "tumbuh kembang". Menyebut "stunting" di awal memicu jawaban defensif.
+Durasi: 20 menit (inti). Bisa molor ke ±25–30 menit kalau narasumber banyak cerita — itu wajar dan bagus. Kalau waktu benar-benar terbatas, pertanyaan bertanda ⏱️ CORE wajib masuk 20 menit; pertanyaan bertanda 💬 OPSIONAL dilewati dulu, hanya dipakai kalau masih ada sisa waktu. Rekam dengan izin, catat kutipan verbatim untuk kalimat beremosi kuat.
+Alokasi waktu per pertanyaan di kolom ⏱️ pada tabel Bagian 4 adalah perkiraan, bukan patokan kaku — kalau narasumber sedang bercerita panjang di H4/H5 (Grand Tour/Laddering), biarkan saja walau lewat dari perkiraan; itu justru bagian paling penting. Ambil waktu tambahan dari pertanyaan OPSIONAL, bukan dari Grand Tour/Laddering.
+Fokus sesi ini: problem discovery. Tujuannya menemukan masalah RIIL di lapangan tanpa digiring ke hipotesis literatur (gizi, ekonomi, dll). Biarkan narasumber yang menentukan topiknya.
+Tahap 2 (validasi solusi & WTP) opsional. Dipakai hanya jika Tahap 1 sudah selesai dan waktu masih ada. Jangan dicampur dengan problem discovery.
+Cara baca tabel pertanyaan: kolom Goal dan Masuk ke untuk pewawancara, jangan dibacakan ke narasumber.
+Kolom "Berarti" di Bagian 6 adalah hipotesis untuk tim, bukan kesimpulan. Satu jawaban dari satu orang belum membuktikan apa-apa. Lihat pola setelah beberapa narasumber.
+2. Rencana Sampel & Checkpoint
 
-## 0. Screening Cepat (sebelum janjian wawancara)
-Pastikan 1 orang = 1 kategori jelas:
-- **Ibu Hamil**: sedang hamil trimester berapa pun, kehamilan ke berapa.
-- **Ibu Balita**: punya anak usia 0–59 bulan (prioritaskan yang punya anak 6–23 bulan — fase risiko tertinggi menurut data).
-- **Catin (Calon Pengantin)**: sudah daftar nikah / dalam 6 bulan menuju nikah, ikut atau belum ikut bimbingan pranikah/kelas catin.
-- **Nakes/Kader**: bidan desa, kader Posyandu, atau TPK (Tim Pendamping Keluarga) aktif.
+Target: 10 narasumber
 
-Variasikan sampel: campur keluarga mampu & kurang mampu, kota & pinggiran, usia ibu muda (<20) & dewasa — supaya persona tidak bias ke satu kelompok saja.
+Persona	Jumlah	Catatan variasi
+Ibu dengan balita (usia 0–59 bulan, prioritaskan 6–23 bulan)	3	Campur keluarga mampu & kurang mampu, kota & pinggiran
+Nakes / Kader / TPK	3	Campur bidan, kader Posyandu, dan TPK
+Ibu hamil	2	Campur kehamilan pertama & berikutnya
+Catin (sudah daftar nikah / ≤6 bulan menuju nikah)	2	Campur yang sudah & belum ikut bimbingan pranikah
 
----
+⚠️ Dengan 10 narasumber, hasil dibaca sebagai indikasi awal / pola sementara, bukan bukti final. Di pitch deck jangan tulis "terbukti". Tulis "dari 10 wawancara, X narasumber menyebut ...".
 
-## 1. Pembuka Universal (5 menit — dipakai untuk SEMUA persona)
+Urutan wawancara: jangan dikelompokkan per persona. Campur, misalnya narasumber 1 ibu balita, 2 nakes, 3 ibu hamil, 4 catin, supaya di checkpoint 1 sudah ada gambaran dari semua persona.
 
-1. "Coba ceritakan tentang keluarga Ibu/Bapak sekarang — tinggal sama siapa saja di rumah?"
-2. "Kalau boleh tahu, kesibukan sehari-hari Ibu/Bapak seperti apa?"
-3. "HP yang dipakai sehari-hari HP apa? Biasa dipakai buat apa saja selain telepon/chat?" *(gali kesiapan digital & app apa yang sudah terpasang)*
+Checkpoint (dihitung per orang/narasumber, bukan per sesi):
 
----
+Checkpoint	Kapan	Yang dilakukan
+1	Setelah narasumber ke-3 atau ke-4	Isi Lembar Rekap tiap narasumber, catat tema yang MUNCUL SENDIRI (jangan pakai tabel hipotesis dulu), lalu evaluasi pertanyaan: apakah Grand Tour memancing cerita kaya atau jawaban dangkal, dan apakah ada pertanyaan membingungkan
+2	Setelah narasumber ke-7	Hitung tema yang berulang, cek persona mana yang datanya masih kurang
+Rekap akhir	Setelah narasumber ke-10	Baru bandingkan temuan dengan hipotesis literatur (Bagian 8), lalu tentukan kandidat problem statement
 
-## 2. IBU HAMIL
+Kalau satu persona hasilnya sangat beragam, tambah narasumber di persona itu saja (diskusikan dengan dosen). Kalau tema belum jenuh setelah 10 narasumber, catat sebagai keterbatasan.
 
-### A. Journey Kehamilan (kronologis, fakta apa adanya)
-4. "Coba ceritakan dari awal — waktu tahu hamil, apa yang pertama kali Ibu lakukan?"
-5. "Sejak itu sampai sekarang, ke mana saja Ibu periksa kehamilan? Berapa kali sudah periksa?"
-6. "Waktu periksa, apa saja yang biasanya dicek/ditanya bidan/dokter? Ibu paham hasilnya nggak?"
-7. "Kalau ada jadwal kontrol tapi Ibu nggak sempat datang, biasanya kenapa?"
+3. Alur Wawancara
+Babak	Tujuan babak	Ujungnya jadi	Kalimat jembatan ke babak berikutnya
+1. Konteks	Siapa orang ini	Customer persona	"Boleh saya tahu lebih jauh tentang pengalaman Ibu/Bapak?"
+2. Journey	Di mana bersentuhan dengan layanan, di titik mana macet	Journey map	"Dari cerita tadi, saya ingin paham bagian yang terasa berat..."
+3. Masalah	Apa yang benar-benar menyulitkan dan apa akarnya	Problem statement	"Untuk mengatasi hal itu, apa yang pernah dipakai atau dicoba?"
+4. Solusi eksisting	Apa yang sudah dipakai dan kenapa belum cukup	Analisis kompetitor & celah	"Terakhir, saya ingin dengar harapan Ibu/Bapak..."
+5. Penutup	Jika hanya satu hal diperbaiki, apa	Prioritas kebutuhan	Terima kasih
+4. Pertanyaan per Persona
+Babak 1 — Konteks (semua persona)
+⏱️	No	Pertanyaan	🎯 Goal	Masuk ke
+CORE · 0,5'	U1	"Ceritakan tentang keluarga sekarang, tinggal sama siapa saja?"	Memahami struktur rumah tangga & siapa pengambil keputusan	Persona (profil)
+CORE · 0,5'	U2	"Kesibukan sehari-hari seperti apa?"	Mengukur beban waktu & pekerjaan	Persona (rutinitas)
+CORE · 1'	U3	"HP apa yang dipakai, dan biasa dipakai buat apa selain telepon/chat?"	Menilai kesiapan digital & kanal yang realistis	Persona, kelayakan produk
+🤰 Ibu Hamil
+⏱️	No	Pertanyaan	🎯 Goal	Masuk ke
+	Journey			
+CORE · 1'	H1	"Waktu tahu hamil, apa yang pertama kali Ibu lakukan?"	Titik masuk ke layanan & siapa yang pertama dihubungi	Journey map
+CORE · 2'	H2	"Selama hamil ke mana saja periksa, berapa kali? Kalau ada jadwal tapi tidak sempat datang, biasanya kenapa?"	Pola periksa & hambatan riil (akses/waktu/biaya/izin)	Journey map, pain point
+💬 OPSIONAL	H3	"Waktu periksa, apa yang dicek dan apakah Ibu paham hasilnya?"	Gap literasi & komunikasi nakes-ibu	Pain point
+	Masalah			
+CORE · 3'	H4	[Grand Tour] "Apa hal yang paling berat atau paling bikin capek pikiran selama hamil ini?"	Masalah spontan tanpa digiring	Problem statement
+CORE · 4'	H5	[Laddering] "Kenapa itu yang paling berat? Sejak kapan? Sudah coba apa?"	Kedalaman, frekuensi & upaya yang sudah dilakukan	Problem statement
+💬 OPSIONAL	H6	[Sweep] Tanya HANYA domain yang belum muncul: keuangan, waktu, dukungan suami/mertua, pengalaman layanan kesehatan	Memastikan tidak ada domain terlewat tanpa menggiring	Peta domain masalah
+CORE · 1,5'	H7	[Root Cause] "Kalau ditarik ke satu akar masalah, ini lebih ke soal apa?"	Penyebab menurut narasumber sendiri	Problem statement
+CORE · 1'	H7b	"Pernah dengar istilah anak stunting atau gagal tumbuh? Menurut Ibu itu apa dan apa penyebabnya?"	Model sebab awam (keturunan/gizi/nasib/lain) & cek konsistensi dengan H7	Problem statement, awareness gap
+	Solusi eksisting			
+CORE · 2'	H8	"Aplikasi/sumber info apa yang pernah dipakai untuk kehamilan? Masih dipakai atau berhenti, kenapa?"	Kompetitor & alasan berhenti	Analisis kompetitor
+💬 OPSIONAL	H9	"Pernah bayar layanan konsultasi kesehatan? Berapa, dan worth it?"	Jangkar harga nyata	SAM/SOM, WTP awal
+	Penutup			
+CORE · 1,5'	H10	"Kalau satu hal bisa diubah biar kehamilan lebih tenang, apa itu?"	Prioritas kebutuhan tertinggi	Problem statement
+CORE · 0,5'	H11	"Ada ibu hamil lain dengan pengalaman serupa yang boleh saya ajak ngobrol?"	Referral narasumber	Rekrutmen
 
-### B. Eksplorasi Masalah Terbuka (*Grand Tour + Laddering* — jangan digiring ke gizi)
-8. **[Grand Tour]** "Kalau boleh cerita bebas, apa hal yang paling berat atau paling bikin capek pikiran buat Ibu selama menjalani kehamilan ini?" *(tunggu jawaban spontan mereka — apa pun temanya, itu valid)*
-9. **[Laddering]** "Kenapa itu yang paling berat menurut Ibu? Sudah terasa sejak kapan? Waktu itu terjadi, Ibu ngapain, ada yang bantu nggak?" *(ikuti terus alur ceritanya sampai mentok, jangan buru-buru pindah topik)*
-10. **[Domain: Ekonomi]** "Soal keuangan keluarga sekarang, ada nggak hal yang bikin Ibu was-was terkait kehamilan atau persalinan nanti?"
-11. **[Domain: Waktu & Beban]** "Ada momen Ibu harus milih antara ngurus kehamilan (periksa, istirahat) dengan hal lain seperti kerja, rumah tangga, atau anak lain? Ceritanya gimana?"
-12. **[Domain: Keluarga/Sosial]** "Soal dukungan orang di sekitar Ibu (suami, orang tua, mertua, tetangga) selama hamil ini — ada yang bikin lega, ada yang malah bikin runtutan/beban? Termasuk soal makanan yang boleh/nggak boleh dimakan, ada nggak pendapat yang beda-beda?"
-13. **[Domain: Akses Layanan]** "Ada pengalaman sama layanan kesehatan (bidan/puskesmas/RS) yang bikin Ibu kesal, atau justru bikin tenang?"
-14. **[Root Cause]** "Kalau semua yang Ibu ceritakan tadi ditarik jadi satu akar masalah, kira-kira itu lebih ke soal uang, waktu, informasi, dukungan orang sekitar, atau ada hal lain?" *(biarkan mereka yang menyimpulkan sendiri — jangan disodorkan pilihan duluan)*
-15. **[Fallback — tanya HANYA kalau topik ini belum muncul secara alami]** "Ngomong-ngomong, gimana pola makan Ibu sehari-hari selama hamil ini?"
-16. "Pernah dengar istilah 'anak stunting' atau 'gagal tumbuh'? Menurut Ibu itu apa dan penyebabnya apa?" *(cek model sebab awam: keturunan vs gizi vs nasib vs hal lain)*
+Total inti (CORE): ±16,5 menit + 2 menit babak Konteks (U1–U3) = ±18,5 menit. Sisa waktu (H3, H6, H9) dipakai kalau masih ada.
 
-### C. Pengalaman dengan Solusi/Aplikasi yang Sudah Ada
-17. "Selama ini, aplikasi HP apa saja yang pernah Ibu pakai buat urusan kehamilan/kesehatan? Masih dipakai atau berhenti? Kenapa?"
-18. "Kalau ada layanan konsultasi kesehatan berbayar yang pernah Ibu coba, berapa biayanya dan menurut Ibu worth it nggak?"
+👶 Ibu dengan Balita
+⏱️	No	Pertanyaan	🎯 Goal	Masuk ke
+	Journey			
+CORE · 1'	B1	"Sejak anak lahir, bagaimana biasanya Ibu memantau tumbuh kembangnya?"	Kebiasaan pemantauan & sumber rujukan	Journey map
+CORE · 2'	B2	"Terakhir ke Posyandu/Puskesmas kapan? Apa yang diukur, dan hasilnya dijelaskan bagaimana?"	Kontinuitas layanan & pemahaman hasil ukur	Journey map, pain point
+💬 OPSIONAL	B3	"Kalau anak susah makan atau sakit, biasanya Ibu ngapain dulu?"	Keputusan sehari-hari & pihak yang dipercaya	Persona, pain point
+	Masalah			
+CORE · 3'	B4	[Grand Tour] "Apa hal yang paling berat atau menyita pikiran dalam mengurus anak balita sekarang?"	Masalah spontan tanpa digiring	Problem statement
+CORE · 4'	B5	[Laddering] "Kenapa itu yang paling berat? Sejak kapan? Sudah coba apa, berhasil?"	Kedalaman & upaya yang sudah dilakukan	Problem statement
+💬 OPSIONAL	B6	[Sweep] Tanya HANYA domain yang belum muncul: keuangan, waktu, siapa yang memutuskan menu/pengasuhan, pengalaman di Posyandu	Memastikan domain tidak terlewat	Peta domain masalah
+CORE · 1,5'	B7	"Pernah ada omongan kader/bidan/tetangga soal kondisi anak yang bikin perasaan tertentu? Setelah itu Ibu ngapain?"	Ada/tidaknya stigma & dampaknya pada perilaku	Pain point (sosial)
+CORE · 1,5'	B8	[Root Cause] "Kalau ditarik ke satu akar masalah, ini lebih ke soal apa?"	Penyebab menurut narasumber sendiri	Problem statement
+CORE · 1'	B8b	"Pernah dengar istilah anak stunting atau gagal tumbuh? Menurut Ibu itu apa dan apa penyebabnya? Setahu Ibu, anak Ibu termasuk kategori itu atau tidak?"	Model sebab awam & kesadaran status anak sendiri	Problem statement, awareness gap
+	Solusi eksisting			
+CORE · 1,5'	B9	"Ada aplikasi/akun medsos soal tumbuh kembang anak yang diikuti? Apa yang bikin lanjut atau berhenti?"	Kompetitor & alasan bertahan/berhenti	Analisis kompetitor
+💬 OPSIONAL	B10	"Pernah pakai KIA/e-PPGBM? Hasilnya kepakai buat Ibu, atau cuma laporan kader?"	Apakah solusi eksisting berguna bagi ibu	Analisis kompetitor
+	Penutup			
+CORE · 1'	B11	"Kalau bisa minta 1 bantuan soal anak, apa itu?"	Prioritas kebutuhan tertinggi	Problem statement
+CORE · 0,5'	B12	"Ada ibu balita lain yang boleh saya ajak ngobrol?"	Referral	Rekrutmen
 
-### D. [TAHAP 2 — VALIDASI, opsional untuk sesi ini] Reaksi & Perbandingan 3 Pilar Fitur + Willingness to Pay
-*(Lewati dulu bagian ini kalau fokus sesi masih problem discovery murni. Baru pakai setelah problem statement dikerucutkan.)*
+Total inti (CORE): ±17,5 menit + 2 menit babak Konteks = ±19,5 menit. Sisa waktu (B3, B6, B10) dipakai kalau masih ada.
 
-"Geny StuntCare itu rencananya ada 3 bagian: **(1)** Ibu tinggal input berat badan/ukuran lengan (LILA) sendiri di HP, langsung ketahuan status risiko kehamilan Ibu tanpa perlu nunggu ke bidan dulu; **(2)** ada chatbot buat tanya-jawab kapan saja soal kehamilan/gizi; **(3)** ada rencana menu bergizi personal sesuai uang belanja Ibu."
+💍 Catin (Calon Pengantin)
+⏱️	No	Pertanyaan	🎯 Goal	Masuk ke
+	Journey			
+CORE · 1'	C1	"Ceritakan persiapan nikah sejauh ini, apa saja yang sudah diurus?"	Peta persiapan & titik sentuh dengan layanan kesehatan	Journey map
+CORE · 1'	C2	"Sudah ikut bimbingan/kelas catin? Isinya apa saja?"	Paparan edukasi pranikah saat ini	Journey map
+💬 OPSIONAL	C3	"Ada pemeriksaan kesehatan sebelum nikah? Hasilnya dijelaskan bagaimana?"	Kualitas tindak lanjut pemeriksaan	Pain point
+	Masalah			
+CORE · 3'	C4	[Grand Tour] "Apa yang paling bikin mikir keras soal persiapan jadi orang tua nanti?"	Masalah spontan tanpa digiring	Problem statement
+CORE · 4'	C5	[Laddering] "Kenapa itu yang paling berat? Sejak kapan kepikiran?"	Kedalaman masalah	Problem statement
+💬 OPSIONAL	C6	[Sweep] Tanya HANYA domain yang belum muncul: biaya, waktu, harapan keluarga, informasi	Memastikan domain tidak terlewat	Peta domain masalah
+CORE · 1,5'	C7	[Root Cause] "Kalau ditarik ke satu akar masalah, ini soal apa?"	Penyebab menurut narasumber sendiri	Problem statement
+CORE · 1'	C7b	"Pernah dengar istilah anak stunting atau gagal tumbuh? Menurut Bapak/Ibu itu apa dan apa penyebabnya?"	Model sebab awam sebelum jadi orang tua	Problem statement, awareness gap
+💬 OPSIONAL	C8	[Fallback] "Soal kesehatan/gizi sebelum nikah, menurut Bapak/Ibu tanggung jawab siapa?" (tanya hanya jika belum muncul)	Pandangan peran calon ayah vs ibu	Persona, pain point
+	Solusi eksisting			
+CORE · 2'	C9	"Soal edukasi kesehatan pranikah, dapat dari mana dan mana yang paling dipercaya?"	Kanal informasi yang dipercaya	Analisis kompetitor, kanal
+	Penutup			
+CORE · 1,5'	C10	"Nanti sudah jadi orang tua, apa yang paling ditakutkan soal tumbuh kembang anak?"	Prioritas kekhawatiran jangka panjang	Persona
+CORE · 0,5'	C11	"Ada catin lain yang boleh saya ajak ngobrol?"	Referral	Rekrutmen
 
-19. "Dari 3 bagian tadi, mana yang menurut Ibu paling Ibu butuhkan sekarang? Kenapa itu, bukan yang lain?"
-20. "Kalau bagian pertama tadi (cek risiko sendiri lewat HP) bilang hasilnya 'berisiko', apa yang bakal Ibu lakukan? Ibu percaya langsung sama hasil dari aplikasi, atau tetap harus dikonfirmasi bidan/dokter dulu?"
-21. "Menurut Ibu, bagian mana yang paling wajar kalau harus bayar? Kalau yang paling Ibu pilih di Q19 itu berbayar, kira-kira Ibu mau bayar berapa per bulan?"
-22. "Kalau harus milih, Ibu lebih rela keluar uang untuk fitur yang Ibu pilih tadi atau untuk beli tambahan telur/susu setiap minggu? Kenapa?"
+Total inti (CORE): ±15,5 menit + 2 menit babak Konteks = ±17,5 menit. Sisa waktu (C3, C6, C8) dipakai kalau masih ada — biasanya lebih longgar karena journey catin cenderung lebih pendek ceritanya.
 
-### E. Closing
-23. "Kalau ada 1 hal yang bisa diubah sekarang biar kehamilan Ibu lebih tenang, apa itu?"
+🩺 Nakes / Kader / TPK
+⏱️	No	Pertanyaan	🎯 Goal	Masuk ke
+	Journey			
+CORE · 1,5'	N1	"Ceritakan alur kerja dari sebelum hari Posyandu sampai selesai."	Peta alur kerja & titik yang menyita waktu	Journey map
+CORE · 1,5'	N2	"Setelah data diukur, bagaimana pencatatan dan pelaporan sampai ke Puskesmas/Dinas?"	Proses & hambatan administrasi	Pain point
+💬 OPSIONAL	N3	"Alat ukur yang dipakai kondisinya bagaimana?"	Kualitas data di sumbernya	Pain point
+	Masalah			
+CORE · 3'	N4	[Grand Tour] "Apa hal yang paling berat atau paling bikin capek dalam pekerjaan sekarang?"	Masalah spontan tanpa digiring	Problem statement
+CORE · 4'	N5	[Laddering] "Kenapa itu yang paling berat? Sejak kapan? Sudah coba diatasi bagaimana?"	Kedalaman & upaya yang sudah dilakukan	Problem statement
+💬 OPSIONAL	N6	[Sweep] Tanya HANYA yang belum muncul: beban tugas, insentif/jumlah kader, dukungan Puskesmas/Desa	Memastikan domain tidak terlewat	Peta domain masalah
+CORE · 1,5'	N7	"Pernah ketemu keluarga yang tidak nyaman atau menolak soal kondisi anaknya? Apa yang dikatakan ke mereka?"	Tantangan komunikasi di lapangan	Pain point (sosial)
+CORE · 1,5'	N8	"Kalau sinyal internet jelek atau tidak ada, kerja tetap jalan bagaimana?"	Kebutuhan offline & kesiapan infrastruktur	Kelayakan produk
+CORE · 1,5'	N9	[Root Cause] "Kalau ditarik ke satu akar masalah, kendala ini lebih ke apa?"	Penyebab menurut narasumber sendiri	Problem statement
+CORE · 1'	N9b	"Menurut Ibu/Bapak sendiri, apa penyebab utama stunting di wilayah kerja Ibu/Bapak? Ini sama atau beda dengan yang diajarkan secara resmi?"	Cross-check pemahaman formal vs pengalaman lapangan nakes	Problem statement, awareness gap
+	Solusi eksisting			
+CORE · 1,5'	N10	"Sistem pencatatan digital yang pernah dicoba (SIGIZI, e-PPGBM, dll), apa yang bikin susah atau ditinggalkan?"	Kelemahan solusi eksisting	Analisis kompetitor
+	Penutup			
+CORE · 1'	N11	"Kalau mendesain ulang sistem Posyandu dari nol, satu hal apa yang paling ingin diubah?"	Prioritas kebutuhan tertinggi	Problem statement
+CORE · 0,5'	N12	"Ada rekan kader/bidan lain yang boleh saya ajak ngobrol?"	Referral	Rekrutmen
 
----
-
-## 3. IBU DENGAN BALITA
-
-### A. Journey Pengasuhan (kronologis sejak lahir)
-24. "Coba ceritakan sejak anak lahir sampai sekarang — bagaimana biasanya Ibu memantau tumbuh kembangnya?"
-25. "Terakhir ke Posyandu/Puskesmas kapan? Apa yang diukur, dan hasilnya diomongin gimana ke Ibu?"
-26. "Anak usia berapa mulai makan selain ASI? Kalau anak susah makan atau gampang sakit, biasanya Ibu ngapain dulu?"
-
-### B. Eksplorasi Masalah Terbuka (*Grand Tour + Laddering* — jangan digiring ke gizi)
-27. **[Grand Tour]** "Kalau boleh cerita bebas, apa hal yang paling berat atau paling menyita pikiran Ibu dalam mengurus anak balita ini sekarang?"
-28. **[Laddering]** "Kenapa itu yang paling berat? Sudah terasa sejak kapan? Ibu udah coba ngapain aja buat ngatasinnya, berhasil nggak?"
-29. **[Domain: Ekonomi]** "Soal keuangan keluarga, ada nggak yang bikin Ibu pusing terkait kebutuhan anak sehari-hari (susu, popok, jajan, kebutuhan lain)?"
-30. **[Domain: Waktu & Beban]** "Ada momen Ibu harus milih antara ngurus anak ini dengan kerja, urus rumah, atau anak lain? Gimana ceritanya?"
-31. **[Domain: Keluarga/Sosial]** "Soal menu/pengasuhan anak, siapa yang biasanya mutusin — Ibu sendiri atau ada yang lain (suami/nenek)? Ada beda pendapat yang bikin runtutan nggak?"
-32. **[Domain: Akses Layanan]** "Pengalaman ke Posyandu/Puskesmas — ada yang bikin kesal, atau justru bikin tenang?"
-33. **[Domain: Sosial/Stigma]** "Pernah ada omongan dari kader/bidan/tetangga soal kondisi anak Ibu yang bikin perasaan tertentu (senang, sedih, malu, marah)? Ceritanya gimana, dan Ibu ngapain setelah itu?"
-34. **[Root Cause]** "Kalau semua yang Ibu ceritakan tadi ditarik jadi satu akar masalah, itu lebih ke soal uang, waktu, informasi, dukungan orang sekitar, atau ada hal lain?"
-35. **[Fallback — tanya HANYA kalau topik ini belum muncul secara alami]** "Ngomong-ngomong soal menu makan anak sehari-hari, gimana ceritanya?"
-
-### C. Pengalaman dengan Solusi/Aplikasi yang Sudah Ada
-36. "Ada nggak aplikasi/akun medsos soal tumbuh kembang anak yang Ibu ikuti atau pernah download? Yang bikin Ibu percaya/lanjut ikuti itu apa, dan yang bikin berhenti apa?"
-37. "Pernah coba aplikasi pencatatan tumbuh kembang (misalnya e-PPGBM yang dipegang kader, atau aplikasi KIA)? Hasilnya kepakai nggak buat Ibu, atau cuma buat laporan kader saja?"
-
-### D. [TAHAP 2 — VALIDASI, opsional untuk sesi ini] Reaksi & Perbandingan 3 Pilar Fitur + Willingness to Pay
-*(Lewati dulu bagian ini kalau fokus sesi masih problem discovery murni.)*
-
-"Geny StuntCare itu rencananya ada 3 bagian: **(1)** Ibu foto/input berat-tinggi anak sendiri, langsung otomatis ketahuan status pertumbuhannya tanpa nunggu jadwal posyandu; **(2)** ada chatbot buat tanya-jawab kapan saja soal tumbuh kembang/gizi anak; **(3)** ada rekomendasi menu murah sesuai bahan yang ada di dapur."
-
-38. "Dari 3 bagian tadi, mana yang menurut Ibu paling Ibu butuhkan sekarang? Kenapa itu, bukan yang lain?"
-39. "Kalau bagian pertama tadi bilang anak 'berisiko' atau 'stunting', apa yang bakal Ibu lakukan? Percaya langsung sama aplikasi, atau tetap harus dikonfirmasi kader/bidan dulu?"
-40. "Menurut Ibu, bagian mana yang paling wajar kalau harus bayar? Kalau yang Ibu pilih di Q38 itu berbayar, kira-kira Ibu mau bayar berapa per bulan?"
-41. "Kalau ada paket berlangganan Rp15.000–Rp30.000/bulan untuk fitur yang paling Ibu butuhkan tadi, apakah itu masuk akal? Kalau nggak, di angka berapa Ibu baru mau coba?"
-
-### E. Closing
-42. "Kalau bisa minta bantuan 1 hal ke pemerintah/aplikasi kesehatan soal anak Ibu, itu apa?"
-
----
-
-## 4. CATIN (Calon Pengantin)
-
-### A. Journey Persiapan Nikah
-43. "Ceritakan persiapan nikah Ibu/Bapak sejauh ini — apa saja yang sudah diurus?"
-44. "Sudah pernah ikut bimbingan/kelas calon pengantin (di KUA/Puskesmas)? Isinya ngomongin apa saja?"
-45. "Ada pemeriksaan kesehatan sebelum nikah nggak (cek darah, Hb, dll)? Kalau ada, hasilnya dijelasin gimana?"
-
-### B. Eksplorasi Masalah Terbuka (*Grand Tour + Laddering*)
-46. **[Grand Tour]** "Kalau boleh cerita bebas, apa hal yang paling bikin Bapak/Ibu mikir keras soal persiapan menuju rumah tangga/jadi orang tua nanti?"
-47. **[Laddering]** "Kenapa itu yang paling berat? Sejak kapan mulai kepikiran soal itu?"
-48. **[Domain: Ekonomi]** "Soal biaya nikah & rencana ke depan, ada yang bikin Bapak/Ibu was-was?"
-49. **[Domain: Waktu & Beban]** "Ada nggak yang harus dikorbankan (waktu kerja, rencana lain) demi persiapan nikah ini?"
-50. **[Domain: Keluarga/Sosial]** "Ada tekanan atau harapan dari keluarga (orang tua/calon mertua) soal persiapan ini yang bikin berat?"
-51. **[Domain: Akses & Informasi]** "Soal pemeriksaan kesehatan/edukasi pranikah, ada pengalaman yang bikin bingung/kesal, atau malah membantu?"
-52. **[Root Cause]** "Kalau ditarik ke satu akar masalah, ini soal uang, waktu, restu keluarga, informasi, atau hal lain?"
-53. **[Fallback — tanya HANYA kalau topik ini belum muncul secara alami]** "Soal kesehatan/gizi sebelum nikah, menurut Bapak/Ibu itu tanggung jawab siapa — calon ibu saja atau berdua?"
-
-### C. Pengalaman dengan Solusi/Aplikasi yang Sudah Ada
-54. "Ada nggak aplikasi yang dipakai buat urusan persiapan nikah sekarang (SIMKAH, aplikasi KUA, dll)? Gimana pengalamannya?"
-55. "Kalau soal edukasi kesehatan pranikah, biasanya Bapak/Ibu dapat dari mana? Yang paling nempel/dipercaya yang mana?"
-
-### D. [TAHAP 2 — VALIDASI, opsional untuk sesi ini] Reaksi & Perbandingan 3 Pilar Fitur + Willingness to Pay
-"Geny StuntCare itu rencananya ada 3 bagian: **(1)** skor kesiapan otomatis — input data kesehatan dasar, langsung ketahuan skor kesiapan jadi orang tua; **(2)** chatbot buat tanya-jawab kapan saja; **(3)** edukasi ringan soal gizi calon orang tua."
-
-56. "Dari 3 bagian tadi, mana yang menurut Bapak/Ibu paling berguna buat catin seusia sekarang? Kenapa?"
-57. "Kalau skor kesiapannya keluar hasil 'kurang siap', apa yang bakal Bapak/Ibu lakukan? Langsung percaya hasil aplikasi, atau tetap mau cek ke puskesmas/bidan?"
-58. "Kalau bagian yang Bapak/Ibu pilih di Q56 itu berbayar, wajar dibayar sekali (bundling biaya nikah) atau per bulan? Berapa yang wajar?"
-
-### E. Closing
-59. "Kalau nanti sudah jadi orang tua, apa yang Bapak/Ibu paling takutkan soal tumbuh kembang anak?"
-
----
-
-## 5. NAKES / KADER POSYANDU / TPK
-
-### A. Journey Kerja Harian
-60. "Coba ceritakan alur kerja Ibu/Bapak dari sebelum hari Posyandu sampai selesai — apa saja tahapannya?"
-61. "Alat ukur (timbangan, alat ukur panjang badan) yang dipakai sekarang kondisinya gimana?"
-62. "Setelah data diukur, bagaimana proses pencatatan dan pelaporannya sampai ke Puskesmas/Dinas?"
-
-### B. Eksplorasi Masalah Terbuka (*Grand Tour + Laddering*)
-63. **[Grand Tour]** "Kalau boleh cerita bebas, apa hal yang paling berat atau paling bikin capek dalam pekerjaan Ibu/Bapak sebagai kader/nakes sekarang?"
-64. **[Laddering]** "Kenapa itu yang paling berat? Sejak kapan jadi masalah? Sudah coba diatasi gimana?"
-65. **[Domain: Beban Kerja/Sistem]** "Dari sekian banyak tugas (25 kompetensi Posyandu ILP), mana yang paling makan waktu dan paling sering bikin capek/pusing?"
-66. **[Domain: Sumber Daya]** "Soal insentif, jumlah kader, atau dukungan dari Puskesmas/Desa — ada yang bikin kerja Ibu/Bapak terasa berat?"
-67. **[Domain: Sosial/Masyarakat]** "Pernah ketemu situasi keluarga yang nggak nyaman atau menolak soal kondisi anaknya — apa pun topiknya (bukan cuma soal stunting)? Ceritanya gimana, dan Ibu/Bapak ngomong apa ke mereka?"
-68. **[Domain: Infrastruktur]** "Kalau sinyal internet di wilayah kerja Ibu/Bapak lagi jelek/nggak ada, gimana biasanya kerja tetap jalan?"
-69. **[Root Cause]** "Kalau ditarik ke satu akar masalah, kendala kerja Ibu/Bapak ini lebih ke sumber daya (alat/tenaga/insentif), sistem/administrasi, dukungan masyarakat, atau infrastruktur (sinyal/akses)?"
-
-### C. Pengalaman dengan Solusi/Aplikasi yang Sudah Ada
-70. "Selama ini kalau ada aplikasi/sistem pencatatan digital yang pernah dicoba (SIGIZI, e-PPGBM, dll), apa yang bikin susah dipakai atau malah ditinggalkan?"
-71. "Ada nggak keluarga yang datanya susah divalidasi — misalnya alamat, penerima bansos, atau data anak yang beda-beda di setiap kunjungan?"
-
-### D. [TAHAP 2 — VALIDASI, opsional untuk sesi ini] Reaksi & Perbandingan 3 Pilar Fitur + Willingness to Pay
-"Geny StuntCare itu rencananya ada 3 bagian: **(1)** alat hitung status gizi/risiko anak otomatis, bisa dipakai offline dan sinkron sendiri pas ada sinyal, plus bisa deteksi data yang aneh/mencurigakan; **(2)** chatbot yang bisa dipakai ibu-ibu buat tanya-jawab mandiri di luar jam Posyandu; **(3)** rekomendasi menu/gizi otomatis buat dikasih ke ibu balita."
-
-72. "Dari 3 bagian tadi, mana yang menurut Ibu/Bapak paling menolong pekerjaan sehari-hari? Kenapa?"
-73. "Kalau bagian pertama (hitung otomatis + offline) itu ada, apakah itu betul-betul mengurangi beban kerja Ibu/Bapak, atau malah nambah kerjaan baru (misal harus ajarin ibu-ibu pakai HP)?"
-74. "Kalau alat ini butuh biaya — menurut Ibu/Bapak siapa yang realistis nanggung biayanya untuk fitur yang dipilih di Q72? Ada anggaran yang bisa dipakai (dana desa, APBD, CSR, SPPG MBG)?"
-75. "Kalau dibandingkan sistem yang sudah ada sekarang, seberapa besar alat ini perlu lebih baik/lebih murah supaya Ibu/Bapak mau ganti kebiasaan?"
-
-### E. Closing
-76. "Kalau Ibu/Bapak yang desain ulang sistem Posyandu dari nol, satu hal apa yang paling ingin diubah?"
-
----
-
-## 6. Teknik Wawancara — Catatan Penting
-
-- **Grand Tour Question dulu, baru menyempit**: selalu buka babak masalah dengan pertanyaan seluas mungkin ("apa yang paling berat...") sebelum menyentuh domain spesifik apa pun. Jangan sebut kata "gizi", "ekonomi", atau "stunting" di pertanyaan pembuka babak ini — biarkan itu keluar dari mulut responden sendiri.
-- **Laddering**: setiap kali responden menyebut suatu masalah, gali dengan "kenapa itu?", "sejak kapan?", "terus gimana?", "siapa lagi yang kena dampaknya?" — sampai mentok ke akar masalah. Jangan puas dengan jawaban permukaan seperti "ya gitu aja, capek".
-- **Peta domain itu untuk didengarkan, bukan checklist wajib ditanya satu-satu**: Ekonomi, Waktu/Beban Kerja, Keluarga/Sosial, Akses Layanan, Informasi/Kepercayaan, Infrastruktur/Sistem (khusus nakes), Emosi. Kalau salah satu domain sudah kejawab lengkap lewat cerita spontan di Grand Tour/Laddering, tidak perlu ditanya ulang secara kaku.
-- **Pertanyaan "Fallback" hanya dipakai kalau topiknya belum muncul sendiri** — ini penting supaya kita nggak menyimpulkan gizi itu masalah utama hanya karena kita yang menanyakannya duluan.
-- **Jangan buru-buru masuk Tahap 2 (solusi/WTP)** kalau sesi masih fokus problem discovery. Kalau waktu terbatas, problem discovery (Bagian A–C) lebih prioritas daripada solution validation (Bagian D).
-- **Kasus negatif itu emas**: kalau ketemu keluarga miskin tapi anaknya tidak stunting (*positive deviance*), atau keluarga mampu tapi anaknya stunting, gali lebih dalam.
-- **Rekam kutipan verbatim** untuk kalimat yang mengandung emosi kuat (malu, takut, marah, pasrah, lega) — ini bahan kutipan persona yang paling kuat untuk pitch deck ke Telkom University/investor.
-
----
-
-## 7. Referensi Hipotesis dari Literatur (untuk PEMBANDING setelah wawancara, BUKAN skrip tanya)
-
-> ⚠️ Tabel ini dipakai setelah transkrip wawancara selesai, untuk mengecek apakah temuan lapangan **mengonfirmasi, menambah, atau malah membantah** hipotesis dari literatur. Jangan dipakai sebagai daftar pertanyaan wajib saat wawancara — itu justru akan menggiring jawaban (*confirmation bias*).
-
-| Hipotesis dari Data Crawling (literatur) | Cek di transkrip: apakah ini muncul secara SPONTAN dari cerita responden? |
-| :--- | :--- |
-| Stigma bikin ibu berhenti ke Posyandu | Cari di jawaban Grand Tour/Laddering & domain Sosial-Stigma (Ibu Balita, Nakes) |
-| Kader kelebihan beban administrasi | Cari di domain Beban Kerja/Sistem (Nakes) |
-| Wilayah beban stunting tinggi = internet buruk (perlu offline-first) | Cari di domain Infrastruktur (Nakes) |
-| Otonomi ibu terbatas oleh mertua/keluarga | Cari di domain Keluarga/Sosial (semua persona ibu) |
-| "Tahu tapi tidak mampu" (gizi vs daya beli) | Cari di domain Ekonomi + Root Cause |
-| Kepatuhan ANC rendah = akses/waktu, bukan cuma kemauan | Cari di Journey (Q5, Q7) + domain Waktu/Akses |
-| Kontinuitas layanan putus (ANC→lahir→imunisasi→posyandu) | Cari di Journey Ibu Balita (Q25) & Journey Nakes (Q60) |
-| **Fokus produk riil: deteksi/pengukuran vs gizi vs chatbot** | Hanya relevan kalau Tahap 2 dilakukan — cek Q19, Q38, Q56, Q72 |
-
-**Cara pakai setelah 4–6 wawancara pertama per persona:**
-1. Rekap tema yang MUNCUL SENDIRI dari Grand Tour/Laddering tiap persona (jangan pakai tabel di atas dulu).
-2. Baru bandingkan tema riil itu dengan tabel hipotesis literatur di atas — mana yang cocok, mana yang beda, mana yang sama sekali baru (belum ada di literatur).
-3. Tema yang paling sering muncul secara SPONTAN dan didukung cerita konkret (bukan cuma opini) itulah kandidat kuat problem statement final.
-4. Baru setelah itu masuk Tahap 2 (validasi solusi) dengan sesi wawancara lanjutan atau di sisa waktu sesi yang sama.
-
----
-
-*Cek saturasi tematik (jawaban mulai berulang) sebelum lanjut ke sel sampling berikutnya sesuai matriks Sel A–E di laporan sintesis.*
+Total inti (CORE): ±18 menit + 2 menit babak Konteks = ±20 menit. Sisa waktu (N3, N6) dipakai kalau masih ada — persona ini paling padat, jaga waktu Grand Tour/Laddering supaya babak Solusi & Penutup tidak terpotong.
